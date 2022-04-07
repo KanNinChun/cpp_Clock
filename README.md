@@ -18,9 +18,14 @@ Hours e.g 13 == 1， 14 == 2 ， 15 == 3 ........
 Minutes e.g can just enter 1 instead of 01  
 /* Important! */
 
-### why i coded this?
+## why i coded this?
 I'm lazy, when i afk during Teams class i don't wanna stay in front of my pc and wait till to the end ,so i coded this which allow me to set up a timer and it will automatically click on the exit position when time is up! (Just joking UwU) This idea just pop off in my head
   
-### Source
-1.https://docs.microsoft.com/zh-tw/windows/win32/api/winuser/nf-winuser-getcursorpos?redirectedfrom=MSDN | GetCursorPos function
+## Source
+1.https://docs.microsoft.com/zh-tw/windows/win32/api/winuser/nf-winuser-getcursorpos?redirectedfrom=MSDN | GetCursorPos function  
 2.https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm | C++ Date and Time
+  
+## Contact
+Discord: ChickenNugget#6524  
+School Email: 210226456@stu.vtc.edu.hk  
+Personal Email: kkan27189@gmail.com
