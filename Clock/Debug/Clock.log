@@ -1,0 +1,2 @@
+﻿  Clock.cpp
+C:\Users\kkan2\source\repos\Clock\Clock\Clock.cpp(12,12): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
