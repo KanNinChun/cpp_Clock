@@ -16,7 +16,7 @@ Done! When it finished the job, it will be closed automatically
 It is based on 24- hour o'clock 
 Hours e.g 13 == 1， 14 == 2 ， 15 == 3 ........
 Minutes e.g can just enter 1 instead of 01
-/* Important! */
+  /* Important! */
 
 ### why i coded this?
 I'm lazy, when i afk during Teams class i don't wanna stay in front of my pc and wait till to the end ,so i coded this which allow me to set up a timer and it will automatically click on the exit position when time is up! (Just joking UwU) This idea just pop off in my head
