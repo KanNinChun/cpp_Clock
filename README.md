@@ -12,7 +12,7 @@ Next, it will ask for the position you want to set
 Then, it will ask for the hour and minutes you want to set
 Done! When it finished the job, it will be closed automatically
   
-/* Important! */
+/* Important! */  
 It is based on 24- hour o'clock 
 Hours e.g 13 == 1， 14 == 2 ， 15 == 3 ........
 Minutes e.g can just enter 1 instead of 01  
