@@ -26,6 +26,6 @@ I'm lazy, when i afk during Teams class i don't wanna stay in front of my pc and
 2.https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm | C++ Date and Time
   
 ## Contact
-Discord: ChickenNugget#6524  
+Discord: Escorpión#6524  
 School Email: 210226456@stu.vtc.edu.hk  
 Personal Email: kkan27189@gmail.com
