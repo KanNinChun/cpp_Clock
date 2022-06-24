@@ -14,8 +14,8 @@ Done! When it finished the job, it will be closed automatically
   
 /* Important! */  
 It is based on 24- hour o'clock 
-Hours e.g 13 == 1， 14 == 2 ， 15 == 3 ........
-Minutes e.g can just enter 1 instead of 01  
+Please Enter 13 instead of 1 , 14 instead of 2 ....
+Minutes Enter 1 instead of 01 is fine
 /* Important! */
 
 ## Source
