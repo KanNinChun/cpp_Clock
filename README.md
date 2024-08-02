@@ -23,6 +23,5 @@ Minutes Enter 1 instead of 01 is fine<br />
 2.https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm | C++ Date and Time
   
 ## Contact
-Discord: Hippo#6524  
-School Email: 210226456@stu.vtc.edu.hk  
-Personal Email: kkan27189@gmail.com
+Discord        : jeff.408  
+Personal Email : kkan27189@gmail.com
